@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>O'Brien Family Cookbook</title>
+  <subtitle>A collection of cooking recipes from the O'Brien family</subtitle>
+  <id>https://cookbook.stonehedges.net/</id>
+  <link href="https://cookbook.stonehedges.net/"/>
+  <link href="https://cookbook.stonehedges.net/feed.xml" rel="self"/>
+  <updated>2019-01-28T18:00:00-06:00</updated>
+  <author>
+    <name>Patrick O'Brien</name>
+  </author>
+  <entry>
+    <title>Ribollita (White Bean Soup w/ Bread)</title>
+    <link rel="alternate" href="https://cookbook.stonehedges.net/recipes/ribollita/"/>
+    <id>https://cookbook.stonehedges.net/recipes/ribollita/</id>
+    <published>2019-01-28T18:00:00-06:00</published>
+    <updated>2019-03-28T09:48:05-05:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Ingredients:
+
+
+
+1 large onion
+3 medium carrots
+2 celery stalks
+8 garlic cloves
+2 bunches Tuscan kale
+1 small wedge of Parmesan with rind
+1 28-oz. can whole peeled tomatoes
+½ loaf crusty country bread (about 10 oz.)
+⅓ cup extra-virgin olive oil, plus more
+
+</summary>
+  </entry>
+  <entry>
+    <title>Farro, Onion, and Arugula Salad</title>
+    <link rel="alternate" href="https://cookbook.stonehedges.net/recipes/farro-onion-and-arugula-salad/"/>
+    <id>https://cookbook.stonehedges.net/recipes/farro-onion-and-arugula-salad/</id>
+    <published>2019-01-26T18:00:00-06:00</published>
+    <updated>2019-03-28T09:48:05-05:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Madeline got this recipe while taking a cooking with persimmons class with a few friends. Since permissmons are garbage and everyone knows it, this recipe works very well with green apples.
+
+
+
+Ingredients:
+
+
+
+½ cup olive oil
+2 large onions, diced
+Salt
+
+</summary>
+  </entry>
+  <entry>
+    <title>Cacio e Pepe</title>
+    <link rel="alternate" href="https://cookbook.stonehedges.net/recipes/cacio-e-pepe/"/>
+    <id>https://cookbook.stonehedges.net/recipes/cacio-e-pepe/</id>
+    <published>2019-01-26T18:00:00-06:00</published>
+    <updated>2019-03-28T09:48:05-05:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">We have tried a large handful of Cacio e Pepe recipes and this is hands down the best. It comes together super quickly for an easy dinner.
+
+
+
+Ingredients:
+
+
+
+1 large onion
+4 tablespoons (60ml) extra-virgin olive oil, divided
+Coarsely ground black pepper
+
+</summary>
+  </entry>
+  <entry>
+    <title>Tommy's Turkey Chili</title>
+    <link rel="alternate" href="https://cookbook.stonehedges.net/recipes/tommys-turkey-chili/"/>
+    <id>https://cookbook.stonehedges.net/recipes/tommys-turkey-chili/</id>
+    <published>2018-12-03T01:01:01-06:00</published>
+    <updated>2019-03-28T09:48:06-05:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">This chili took 1st place at the 2015 Miraloma Park Holiday Party.
+
+Serves 1
+
+
+
+Ingredients:
+
+
+
+2 packs ground turkey 
+1 onion, chopped
+8 cloves garlic, chopped
+1 shallot, chopped 
+1 jalapeño, chopped
+1 large can crushed tomatoes
+1 can tall red kidney
+
+</summary>
+  </entry>
+  <entry>
+    <title>Sikil Pak</title>
+    <link rel="alternate" href="https://cookbook.stonehedges.net/recipes/sikil-pak/"/>
+    <id>https://cookbook.stonehedges.net/recipes/sikil-pak/</id>
+    <published>2018-12-02T01:01:01-06:00</published>
+    <updated>2019-03-28T09:48:06-05:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Fits in well with any Mexican or Mediterranean meal.
+
+Makes 2 cups
+
+
+
+Ingredients:
+
+
+
+1 small white onion, peeled and sliced into rounds ¼-inch thick
+1 3/4cups (about 8 ounces)pepitas, toasted, salted hulled pumpkinseeds
+1/3 of a 15-ounce can diced fire
+
+</summary>
+  </entry>
+  <entry>
+    <title>Romesco</title>
+    <link rel="alternate" href="https://cookbook.stonehedges.net/recipes/romesco/"/>
+    <id>https://cookbook.stonehedges.net/recipes/romesco/</id>
+    <published>2018-12-02T01:01:00-06:00</published>
+    <updated>2019-03-28T09:48:06-05:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">The best Romesco sauce Patrick and Madeline have ever made. Good with vegetables (especially potatoes), as a dipping sauce, or just by the spoonful.
+
+Makes 2 cups
+
+
+
+Ingredients:
+
+
+
+1 1-inch thick slice of crusty bread, crust removed and cut into 1-inch
+
+</summary>
+  </entry>
+</feed>
