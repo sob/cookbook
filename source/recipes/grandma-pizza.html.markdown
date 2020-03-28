@@ -11,6 +11,8 @@ Rather than measuring, it's best to weigh everything with an accurate scale.
 
 DiNapoli canned tomatoes are fantastic to use for the sauce. If they're whole then use a food processor until chunky.
 
+If you want to make this a bit more like <a href="https://en.wikipedia.org/wiki/Detroit-style_pizza">"detroit" style pizza</a>, then used jack or pepperjack cheese instead of mozzarella.
+
 ---
 
 Ingredients
@@ -49,7 +51,7 @@ Instructions:
 
 1. Top pizza as desired, cheese first, then basil, then sauce. Be sure to sprinkle enough cheese around the edge of the pan where the dough meets the metal of the pan. This will crisp up and make the crust amazing.
 
-1. Sometimes we've found that the mozzarella is a bit bland. If this is the case feel free to sprinkle a small amount of kosher salt over the bare sections of the cheese. Don't go overboard.
+1. Sometimes we've found that the mozzarella is a bit bland. If this is the case feel free to sprinkle a small amount of kosher salt over the bare sections of the cheese. Don't go overboard. If you are using jack/pepperjack, skip this step.
 
 1. Bake until bottom is crisp and top surface is bubbling, 15 to 20 minutes total. Allow to cool at room temperature for 5 minutes.
 
