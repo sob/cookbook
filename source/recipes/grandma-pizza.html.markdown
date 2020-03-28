@@ -18,6 +18,7 @@ Ingredients
 Dough:
 
 > * 17.5 ounces (500 grams, about 3 1/2 cups) all-purpose or bread flour
+>   * We've also found that replacing 125 grams of AP or bread flour with whole wheat flour is tasty
 > * 0.35 ounces (10 grams, about 2 teaspoons) kosher salt
 > * 0.18 ounces (5 grams, about 1 teaspoon) instant or RapidRise yeast
 > * 1/2 cup extra-virgin olive oil, divided
