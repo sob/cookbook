@@ -49,6 +49,8 @@ Instructions:
 
 1. Top pizza as desired, cheese first, then basil, then sauce. Be sure to sprinkle enough cheese around the edge of the pan where the dough meets the metal of the pan. This will crisp up and make the crust amazing.
 
+1. Sometimes we've found that the mozzarella is a bit bland. If this is the case feel free to sprinkle a small amount of kosher salt over the bare sections of the cheese. Don't go overboard.
+
 1. Bake until bottom is crisp and top surface is bubbling, 15 to 20 minutes total. Allow to cool at room temperature for 5 minutes.
 
 <font size=1>Originally taken from <a href="https://www.seriouseats.com/recipes/2012/07/basic-square-pan-pizza-dough-recipe-sicilian-recipe.html">Serious Eats - Basic Square Pan Pizza Dough Recipe (Sicilian-Style Dough)</a>
