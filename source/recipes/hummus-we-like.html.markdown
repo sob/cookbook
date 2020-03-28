@@ -11,6 +11,8 @@ As listed in the ingredients list, you should make a batch of [Quite Possibly th
 
 If you have a good blender you should use that, but be prepared to be blending for a while. A food processor will work, although we've found that the texture is not as good.
 
+The cream of tartar, according to America's Test Kitchen, will help the lemon flavor shine whilst using less lemon juice and peel. If you are not using lemon, do not add the cream of tartar.
+
 Getting a good tahini is pretty important for this recipe. Here is a list of Tahinis that we *do not* recommend:
 
 > * Trader Joes. It tastes oddly like peanut butter.
@@ -19,22 +21,25 @@ Getting a good tahini is pretty important for this recipe. Here is a list of Tah
 
 Ingredients:
 
-> * 1 batch of [Quite Possibly the Best Chickpeas](/recipes/best-chickpeas), lemon peels removed
-> * 5 garlic cloves,peeled
-> * 200 g (7 oz) raw tahini
+> * 1 batch of [Quite Possibly the Best Chickpeas](/recipes/best-chickpeas), onion, lemon peels, and garlic cloves removed
+> * 5 garlic cloves, peeled and chopped
+> * 100 g (3.5 oz) raw tahini
 > * 1 teaspoon salt
-> * pinch of ground cumin
+> * small pinch of ground cumin
 > * Juice of 1 lemon
 > * Zest of 1 lemon
+> * 1/4 tsp cream of tartar
 
 ---
 
 Instructions:
 
-Put the garlic in a food processor (don't use a stick blender) with 200ml (7oz) water and blend to a very smooth consistency. Put through a sieve and keep the liquid, discarding the puréed garlic.
+1. Juice the lemon, put into small bowl.
 
-Put the chickpeas in the blender and blend to a smooth paste; this can take anything from 5 to 10 minutes. Add the tahini, garlic water, salt, lemon zest, and cumin and continue to blend, ocassionally scraping down the sides and adding water if necessary.
+1. Chop garlic and place into lemon juice bowl. Let sit for 15 minutes. Meanwhile, zest the lemon, removing as much pith as possible.
 
-Transfer to a large mixing bowl, add lemon juice and gently whisk in. If you over mix you will introduce too much air and the consistency might be off.
+1. Remove garlic solids from lemon juice and discard garlic solids.
 
-Store in a sealed container in the fridge for up to 5 days.
+1. Put the chickpeas in the blender and blend to a smooth paste; this can take anything from 5 to 10 minutes. Add the tahini, salt, lemon juice, lemon zest, cream of tartar, and cumin and continue to blend, occasionally scraping down the sides and adding water if necessary.
+
+1. Store in a sealed container in the fridge for up to 5 days.
