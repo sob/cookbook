@@ -29,7 +29,7 @@ Instructions:
 
 1. Arrange tofu slices in a single layer on a paper towel–lined plate and cover with a few more paper towels. Press down firmly on tofu with your hands to expel excess liquid.
 
-1. Heat vegetable oil in a large skillet, preferably cast iron, over medium-high. Cook tofu, turning once, until browned, 7–10 minutes total. Transfer to a plate and let cool.
+1. Heat vegetable oil in a large skillet, preferably cast iron, over medium-high. Cook tofu, turning once, until browned, 7–10 minutes total. If you want a firmer, chewier texture, cook the tofu for 5-10 minutes longer. Transfer to a plate and let cool.
 
 1. Meanwhile, whisk chile, soy sauce, mirin, Sriracha, vinegar, sesame oil, and ginger in a medium bowl to combine.
 
