@@ -18,6 +18,9 @@ gem 'middleman-search'
 # For feed.xml.builder
 gem 'builder', '~> 3.2.3'
 
+# address security warning
+gem 'sprockets', '>= 3.7.2'
+
 # Code syntax highlighting
 gem 'middleman-syntax', '~> 3.0.0'
 gem 'redcarpet', '~> 3.4.0'
