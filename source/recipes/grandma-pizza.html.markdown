@@ -28,7 +28,7 @@ Dough:
 
 Sauce:
 
-> * 1 28oz can of San Marzano (style) tomatoes
+> * 1 ~15oz can of San Marzano (style) tomatoes
 > * A glug or two of Olive Oil
 > * A few large pinches of salt
 
