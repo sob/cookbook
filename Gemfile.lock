@@ -60,7 +60,7 @@ GEM
       activesupport (>= 4.2, < 5.1)
       addressable (~> 2.3)
       backports (~> 3.6)
-      bundler (~> 1.1)
+      bundler (~> 2.1)
       contracts (~> 0.13.0)
       dotenv
       erubis
@@ -151,4 +151,4 @@ DEPENDENCIES
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   1.16.1
+   2.1.4
