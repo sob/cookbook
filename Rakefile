@@ -6,7 +6,7 @@ aws_region      = "us-west-1"
 desc "Build the website from source"
 task :build do
   puts "## Building website"
-  status = system("middleman build --clean")
+  status = system("middleman build --clean --verbose")
   puts status ? "OK" : "FAILED"
 end
 
