@@ -2,6 +2,7 @@
 # middleman-casper configuration
 ###
 
+
 config[:casper] = {
   blog: {
     url: 'https://obrieneats.com',
@@ -122,7 +123,9 @@ set :markdown, fenced_code_blocks: true, smartypants: true, footnotes: true,
 activate :syntax, line_numbers: false
 
 # Middleman-Sprockets - https://github.com/middleman/middleman-sprockets
-activate :sprockets
+activate :sprockets do |c|
+  c.expose_middleman_helpers = true
+end
 
 # Methods defined in the helpers block are available in templates
 # helpers do
