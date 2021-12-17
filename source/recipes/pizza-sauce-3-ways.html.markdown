@@ -17,6 +17,7 @@ Simple Sauce Ingredients:
 FWSY Sauce Ingredients:
 
 > * 1 twenty-eight(28) ounce can of whole tomatoes
+> * 20 grams of good quality extra virgin olive oil
 > * 1 clove of garlic, chopped
 > * 8 grams of fine sea salt
 > * 0.3 gram dried oregano
