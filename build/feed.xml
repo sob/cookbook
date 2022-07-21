@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>O'Brien Family Cookbook</title>
+  <subtitle>A collection of cooking recipes from the O'Brien family</subtitle>
+  <id>https://obrieneats.com</id>
+  <link href="https://obrieneats.com"/>
+  <link href="https://obrieneats.com/feed.xml" rel="self"/>
+  <updated>2021-10-22T09:01:01+00:00</updated>
+  <author>
+    <name>Patrick O'Brien</name>
+  </author>
+  <entry>
+    <title>Detroit Style Pizza</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/detroit-style-pizza/"/>
+    <id>https://obrieneats.com/recipes/detroit-style-pizza/</id>
+    <published>2021-10-22T09:01:01+00:00</published>
+    <updated>2022-07-18T17:16:22+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">For Christmas last year Madeline bought me a LloydsPan Detroit Style Pizza Pan which I use for this recipe.
+
+You can probably use another type of pan that’s roughly the same dimensions.
+
+This recipe calls for Brick cheese, which is a cheese available</summary>
+  </entry>
+  <entry>
+    <title>Pizza Sauce, 3 Ways</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/pizza-sauce-3-ways/"/>
+    <id>https://obrieneats.com/recipes/pizza-sauce-3-ways/</id>
+    <published>2021-10-22T08:01:01+00:00</published>
+    <updated>2022-07-18T17:16:22+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">All sauces come directly from Ken Forkish’s The Elements of Pizza, which is an excellent book for learning about pizza.
+
+
+
+Simple Sauce Ingredients:
+
+
+
+1 twenty-eight(28) ounce can of whole tomatoes
+8 grams of fine sea salt
+
+
+
+FWSY Sauce Ingredients:</summary>
+  </entry>
+  <entry>
+    <title>Bomb Roasted Cauliflower</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/bomb-roasted-cauliflower/"/>
+    <id>https://obrieneats.com/recipes/bomb-roasted-cauliflower/</id>
+    <published>2021-02-22T00:00:00+00:00</published>
+    <updated>2022-07-18T17:16:22+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Made at least once a week in the Marin O'Brien household.
+
+
+
+Ingredients:
+
+
+
+1 head cauliflower, cut into florets (the smaller the size will get crispier they will be)
+2 Tbsp. olive oil
+1 tsp. garlic powder
+1 tsp. ground cumin
+½ tsp. black pepper
+1 ½
+
+</summary>
+  </entry>
+  <entry>
+    <title>Grain Salad with Honey Mustard Dressing</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/grain-salad-with-honey-mustard-dressing/"/>
+    <id>https://obrieneats.com/recipes/grain-salad-with-honey-mustard-dressing/</id>
+    <published>2021-02-21T00:00:00+00:00</published>
+    <updated>2022-07-18T17:16:22+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">“It’s so damn good!” - Aunt Maddy
+
+
+
+Ingredients:
+
+
+
+½ butternut squash diced
+½ cup cooked quinoa
+½ cup cooked farro
+½ cup cooked black rice
+3 cups arugula roughly four handfuls
+¼ cup pomegranate seeds
+¼ cup pine nuts
+3.5 oz feta cheese
+
+
+
+Grain Salad</summary>
+  </entry>
+  <entry>
+    <title>Alfajores with Coconut Dulce de Leche</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/alfajores-with-coconut-dulce-de-leche/"/>
+    <id>https://obrieneats.com/recipes/alfajores-with-coconut-dulce-de-leche/</id>
+    <published>2021-02-13T00:00:00+00:00</published>
+    <updated>2022-07-18T17:16:22+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Madeline thinks this is the best thing she’s ever baked.
+
+It’s easiest to spread on round cookies, although holiday specific shapes do look nicer.
+
+
+
+Ingredients:
+
+
+
+1 14-oz. can sweetened condensed milk
+1 13.5-oz. can unsweetened coconut milk
+2 tsp.
+
+</summary>
+  </entry>
+  <entry>
+    <title>Chicken Tikka Masala</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/chicken-tikka-masala/"/>
+    <id>https://obrieneats.com/recipes/chicken-tikka-masala/</id>
+    <published>2020-09-30T00:00:00+00:00</published>
+    <updated>2022-07-18T17:16:22+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Tommy submits his family’s modified Chicken Tikka Masala recipe. A true classic.
+
+
+
+Ingredients
+
+
+
+5 pounds bone-in chicken pieces (breasts, legs, or a mix), skin removed; or 3-4 boneless, skinless chicken breast if you prefer.
+3 tablespoons toasted ground
+
+</summary>
+  </entry>
+</feed>

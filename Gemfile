@@ -24,8 +24,6 @@ gem 'middleman-syntax', '~> 3.0.0'
 gem 'redcarpet', '~> 3.5.1'
 
 # For "summary"-Helper
-gem 'nokogiri', '~> 1.13.6'
-
-gem 'rake'
+gem 'nokogiri', '~> 1.12'
 
 gem "webrick", "~> 1.7"

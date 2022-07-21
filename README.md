@@ -14,4 +14,15 @@ Once prerequisites are installed, cd to the repo and type `middleman` to start t
 All recipes can be found in `source/recipes`. The file name should be `recipe-name.html.markdown` and the recipe should follow this [recipe template](https://gist.githubusercontent.com/anonymous/ff969d248019f2e5b105b3819889ddd2/raw/fb1da5f549890a5418042ef5b2a9af82803ed869/gistfile1.txt). Once you add a file to the directory you should be able to hit refresh in your browser and have the recipe show up in the recipe list.
 
 ### Pushing your changes
-Once your changes are made you can type in `rake deploy` to have the site built and deployed to S3.
+
+```
+docker run -v ${PWD}:/myapp -it poblahblahblah/cookbook:latest middleman build
+```
+
+### Building the container
+
+```
+docker build . -t cookbook:latest
+docker tag cookbook:latest poblahblahblah/cookbook:latest
+docker push poblahblahblah/cookbook:latest
+```
