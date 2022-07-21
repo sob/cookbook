@@ -16,7 +16,7 @@ All recipes can be found in `source/recipes`. The file name should be `recipe-na
 ### Pushing your changes
 
 ```
-docker run -v ${PWD}:/myapp -it poblahblahblah/cookbook:latest middleman build
+docker run -v ${PWD}:/myapp -it poblahblahblah/cookbook:latest middleman build --build-dir build/site
 ```
 
 ### Building the container
