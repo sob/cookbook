@@ -21,9 +21,12 @@ gem 'builder', '~> 3.2.3'
 
 # Code syntax highlighting
 gem 'middleman-syntax', '~> 3.0.0'
-gem 'redcarpet', '~> 3.5.1'
+gem 'redcarpet', '~> 3.4.0'
 
 # For "summary"-Helper
-gem 'nokogiri', '~> 1.12'
+gem 'nokogiri', '~> 1.10.8'
+
+gem 'rake'
 
 gem "webrick", "~> 1.7"
+
