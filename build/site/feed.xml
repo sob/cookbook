@@ -5,10 +5,48 @@
   <id>https://obrieneats.com</id>
   <link href="https://obrieneats.com"/>
   <link href="https://obrieneats.com/feed.xml" rel="self"/>
-  <updated>2023-01-22T00:00:00+00:00</updated>
+  <updated>2023-04-11T00:00:00+00:00</updated>
   <author>
     <name>Patrick O'Brien</name>
   </author>
+  <entry>
+    <title>Pancakes</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/pancakes/"/>
+    <id>https://obrieneats.com/recipes/pancakes/</id>
+    <published>2023-04-11T00:00:00+00:00</published>
+    <updated>2023-04-12T02:44:27+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">We’ve been going through a pancake phase lately and these are quite good.
+
+Makes ~8 very large pancakes.
+
+
+
+Ingredients:
+
+Dry Mix:
+
+
+
+385g All Purpose Flour
+50g sugar
+10g salt
+11g Baking Powder
+5g Baking Soda
+
+
+
+Wet Mix:
+
+
+
+460ml/g Milk
+50ml/g Vegetable
+
+</summary>
+  </entry>
   <entry>
     <title>Graham Crack</title>
     <link rel="alternate" href="https://obrieneats.com/recipes/graham-crack/"/>
@@ -130,30 +168,5 @@ Ingredients:
 
 
 Grain Salad</summary>
-  </entry>
-  <entry>
-    <title>Alfajores with Coconut Dulce de Leche</title>
-    <link rel="alternate" href="https://obrieneats.com/recipes/alfajores-with-coconut-dulce-de-leche/"/>
-    <id>https://obrieneats.com/recipes/alfajores-with-coconut-dulce-de-leche/</id>
-    <published>2021-02-13T00:00:00+00:00</published>
-    <updated>2021-02-21T18:41:46+00:00</updated>
-    <author>
-      <name>Patrick O'Brien</name>
-    </author>
-    <summary type="html">Madeline thinks this is the best thing she’s ever baked.
-
-It’s easiest to spread on round cookies, although holiday specific shapes do look nicer.
-
-
-
-Ingredients:
-
-
-
-1 14-oz. can sweetened condensed milk
-1 13.5-oz. can unsweetened coconut milk
-2 tsp.
-
-</summary>
   </entry>
 </feed>
