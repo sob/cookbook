@@ -5,10 +5,48 @@
   <id>https://obrieneats.com</id>
   <link href="https://obrieneats.com"/>
   <link href="https://obrieneats.com/feed.xml" rel="self"/>
-  <updated>2023-04-11T00:00:00+00:00</updated>
+  <updated>2023-12-03T00:00:00+00:00</updated>
   <author>
     <name>Patrick O'Brien</name>
   </author>
+  <entry>
+    <title>Uncle Tom's Jambalaya</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/uncle-toms-jambalaya/"/>
+    <id>https://obrieneats.com/recipes/uncle-toms-jambalaya/</id>
+    <published>2023-12-03T00:00:00+00:00</published>
+    <updated>2023-12-08T21:40:45+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">During Uncle Tom’s 30th Birthday in NOLA we all took a cajun cooking class. From that class came this recipe.
+
+Yields 6 Servings.
+
+
+
+Ingredients:
+
+
+
+2 tablespoons peanut oil, divided
+1 tablespoon Cajun seasoning
+10 ounces andouille sausage, sliced into
+
+</summary>
+  </entry>
+  <entry>
+    <title>Chicken with Lime-Cilantro Rice</title>
+    <link rel="alternate" href="https://obrieneats.com/recipes/chicken-with-lime-cilantro-rice/"/>
+    <id>https://obrieneats.com/recipes/chicken-with-lime-cilantro-rice/</id>
+    <published>2023-10-16T00:00:00+00:00</published>
+    <updated>2023-12-08T21:37:05+00:00</updated>
+    <author>
+      <name>Patrick O'Brien</name>
+    </author>
+    <summary type="html">Made this delicious Lime-Cilantro-RIce Saturday.  Both Dad and I loved it. I made it with sautéed/simmered chicken breast.  Added pickled red onions.  Oh my.  Delicious. I think it is worthy of inclusion in our Cookbook.
+
+For the chicken, I seared one</summary>
+  </entry>
   <entry>
     <title>Pancakes</title>
     <link rel="alternate" href="https://obrieneats.com/recipes/pancakes/"/>
@@ -112,61 +150,5 @@ Simple Sauce Ingredients:
 
 
 FWSY Sauce Ingredients:</summary>
-  </entry>
-  <entry>
-    <title>Bomb Roasted Cauliflower</title>
-    <link rel="alternate" href="https://obrieneats.com/recipes/bomb-roasted-cauliflower/"/>
-    <id>https://obrieneats.com/recipes/bomb-roasted-cauliflower/</id>
-    <published>2021-02-22T00:00:00+00:00</published>
-    <updated>2021-03-21T19:56:06+00:00</updated>
-    <author>
-      <name>Patrick O'Brien</name>
-    </author>
-    <summary type="html">Made at least once a week in the Marin O'Brien household.
-
-
-
-Ingredients:
-
-
-
-1 head cauliflower, cut into florets (the smaller the size will get crispier they will be)
-2 Tbsp. olive oil
-1 tsp. garlic powder
-1 tsp. ground cumin
-½ tsp. black pepper
-1 ½
-
-</summary>
-  </entry>
-  <entry>
-    <title>Grain Salad with Honey Mustard Dressing</title>
-    <link rel="alternate" href="https://obrieneats.com/recipes/grain-salad-with-honey-mustard-dressing/"/>
-    <id>https://obrieneats.com/recipes/grain-salad-with-honey-mustard-dressing/</id>
-    <published>2021-02-21T00:00:00+00:00</published>
-    <updated>2021-02-21T19:54:16+00:00</updated>
-    <author>
-      <name>Patrick O'Brien</name>
-    </author>
-    <summary type="html">“It’s so damn good!” - Aunt Maddy
-
-
-
-Ingredients:
-
-
-
-½ butternut squash diced
-½ cup cooked quinoa
-½ cup cooked farro
-½ cup cooked black rice
-3 cups arugula roughly four handfuls
-¼ cup pomegranate seeds
-¼ cup pine nuts
-3.5 oz feta cheese
-
-
-
-Grain Salad</summary>
   </entry>
 </feed>
