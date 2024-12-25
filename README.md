@@ -22,7 +22,7 @@ docker run -v ${PWD}:/myapp -it poblahblahblah/cookbook:latest middleman build -
 ### Building the container
 
 ```
-docker build . -t cookbook:latest
+docker build --platform linux/amd64 -t cookbook:latest .
 docker tag cookbook:latest poblahblahblah/cookbook:latest
 docker push poblahblahblah/cookbook:latest
 ```

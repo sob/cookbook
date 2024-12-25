@@ -120,7 +120,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
-    sassc (2.4.0)
+    sassc (2.1.0)
       ffi (~> 1.9)
     servolux (0.13.0)
     sprockets (4.0.2)
@@ -141,8 +141,7 @@ GEM
 
 PLATFORMS
   ruby
-  x86_64-darwin-19
-  x86_64-linux
+  arm64-linux
 
 DEPENDENCIES
   builder (~> 3.2.3)

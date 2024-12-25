@@ -14,7 +14,9 @@ gem 'middleman', '~> 4.3.11'
 gem 'middleman-blog', '~> 4.0.3'
 gem 'middleman-sprockets', '~> 4.1.0'
 gem 'middleman-search', '~> 0.10.0'
-gem 'sass'
+
+# sassc 2.4.0 was hanging forever
+gem 'sassc', '~> 2.1.0'
 
 # For feed.xml.builder
 gem 'builder', '~> 3.2.3'
