@@ -7,7 +7,9 @@ tags: [peruvian, vegetarian, vegetables, south american]
 
 Mom's (Grandma Susan) favorite Saltado. Relatively quick, super easy, and a family favorite. Very popular for Birthdays.
 
-For meat eaters there is [Lomo Saltado](/recipes/lomo-saltado) which can use either chicken or beef.
+For meat eaters there is [Lomo Saltado](/recipes/lomo-saltado) which can use either chicken or beef. You can also include meat in this dish as well.
+
+If you make [Aji](/recipes/peruvian-aji) to go along with this add the leftover lemon juice to the cooking water to further flavor the rice.
 
 Serves 6-8.
 
@@ -37,8 +39,12 @@ Ingredients:
 
 Instructions:
 
-Combine 1/2 teaspoon of salt, cayenne, cumin, garlic powder, and black pepper. Thoroughly coat meat. Let stand while you prepare vegetables.
+1. Cut the vegetables as instructed above.
 
-Heat 2 Tablespoons of [Annatto oil](/recipes/annatto-oil) or olive oil (if using achiote paste) in heavy skillet over medium heat. Add achiote paste (if using), bell peppers, onions, garlic, and chile, cabbage, and the heartier vegetables. Cover and cook until bell peppers and onions are soft, stirring occasionally, 10 - 15 minutes. Mix in tomato, remaining vegetables,  vinegar, 1/2 teaspoon of salt, and remaining [Annatto oil](/recipes/annatto-oil). Remove from heat.
+1. Combine 1/2 teaspoon of salt, cayenne, cumin, garlic powder, and black pepper. Add to vegetables and combine.
 
-Serve over rice of french fried potatoes.
+1. Heat 2 Tablespoons of [Annatto oil](/recipes/annatto-oil) or olive oil (if using achiote paste) in heavy skillet over medium heat. Add achiote paste (if using), bell peppers, onions, garlic, and chile, cabbage, and the heartier vegetables. Cover and cook until bell peppers and onions are soft, stirring occasionally, 10 - 15 minutes.
+
+1. Mix in tomato, remaining vegetables, vinegar, 1/2 teaspoon of salt, and remaining [Annatto oil](/recipes/annatto-oil). Remove from heat.
+
+1. Serve over rice of french fried potatoes.
